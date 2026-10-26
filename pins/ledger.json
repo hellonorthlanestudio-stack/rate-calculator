@@ -1,0 +1,33 @@
+{
+ "last_pin_number": 20,
+ "used_angles": [
+  "A-invoice-tracker-late (pin1)",
+  "A-tax-set-aside (pin2)",
+  "A-usage-rights (pin3)",
+  "A-deal-pipeline (pin4)",
+  "A-pitch-emails (pin5)",
+  "A-gifted-only-replies (pin12)",
+  "A-calc-rate",
+  "A-net-terms",
+  "A-late-emails-5",
+  "A-gifted-value",
+  "A-contract-excluded",
+  "A-counter-low-offer",
+  "A-content-calendar",
+  "A-brands-earned"
+ ],
+ "note": "pins 6-11 were posted by hand; angles unknown",
+ "titles": [
+  "What to Charge for a Sponsored Post | Free Creator Rate Calculator",
+  "Net 30 vs Net 60 for Brand Deals | Free Invoice Tracker for Creators",
+  "Late Payment Email Templates for Creators | Chase Brand Invoices",
+  "Track Gifted Products and Brand Fees | Free Notion Template for Creators",
+  "Brand Deal Contract Tracker for Creators | Notion Template",
+  "How to Counter a Low Brand Offer | Email Templates for Creators",
+  "Notion Content Calendar for Creators Linked to Brand Deals",
+  "Track Earnings Per Brand | Notion Template for Content Creators"
+ ],
+ "months_run": [
+  "2026-10"
+ ]
+}

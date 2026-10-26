@@ -1,0 +1,286 @@
+[
+ {
+  "id": "p13",
+  "badge": "Free rate calculator",
+  "headline": [
+   "What to charge",
+   "for a sponsored",
+   "post"
+  ],
+  "subline": "Start from your base rate, then add usage rights, exclusivity and rush.",
+  "card_title": "Rate calculator",
+  "cta": "Try it free",
+  "rows": [
+   {
+    "name": "Base rate",
+    "meta": "Your starting fee",
+    "tag": "Start",
+    "tone": "plain"
+   },
+   {
+    "name": "Usage rights",
+    "meta": "Add-on",
+    "tag": "+ Add",
+    "tone": "paid"
+   },
+   {
+    "name": "Exclusivity",
+    "meta": "Add-on",
+    "tag": "+ Add",
+    "tone": "paid"
+   },
+   {
+    "name": "Rush",
+    "meta": "Add-on",
+    "tag": "+ Add",
+    "tone": "paid"
+   },
+   {
+    "name": "Reply line for the brand",
+    "meta": "Ready to paste",
+    "tag": "Copy",
+    "tone": "waiting"
+   }
+  ],
+  "label_right": "Free tool"
+ },
+ {
+  "id": "p14",
+  "badge": "Free Notion template",
+  "headline": [
+   "Net 30 or",
+   "Net 60? Track",
+   "the due date"
+  ],
+  "subline": "Add the net terms and see the due date and days late.",
+  "card_title": "Invoices",
+  "cta": "Get it free",
+  "rows": [
+   {
+    "name": "INV-001",
+    "meta": "Net 30 \u00b7 12 days late",
+    "tag": "Overdue",
+    "tone": "overdue"
+   },
+   {
+    "name": "INV-002",
+    "meta": "Net 60",
+    "tag": "Waiting",
+    "tone": "waiting"
+   },
+   {
+    "name": "INV-003",
+    "meta": "Net 30",
+    "tag": "Paid",
+    "tone": "paid"
+   }
+  ]
+ },
+ {
+  "id": "p15",
+  "badge": "Creator email templates",
+  "headline": [
+   "5 late-payment",
+   "emails to send",
+   "brands"
+  ],
+  "subline": "From a reminder before the due date to a final notice.",
+  "card_title": "Late-payment emails",
+  "cta": "See the template",
+  "rows": [
+   {
+    "name": "Reminder",
+    "meta": "3 days before the due date",
+    "tag": "Email 1",
+    "tone": "waiting"
+   },
+   {
+    "name": "3 more emails",
+    "meta": "In between",
+    "tag": "Emails 2-4",
+    "tone": "plain"
+   },
+   {
+    "name": "Final notice",
+    "meta": "45+ days late",
+    "tag": "Email 5",
+    "tone": "overdue"
+   }
+  ],
+  "label_right": "Pro Toolkit"
+ },
+ {
+  "id": "p16",
+  "badge": "Free Notion template",
+  "headline": [
+   "Track gifted",
+   "products next",
+   "to your fee"
+  ],
+  "subline": "See the total value of each brand deal: fee plus gifted value.",
+  "card_title": "Deals",
+  "cta": "Get it free",
+  "rows": [
+   {
+    "name": "Skincare brand",
+    "meta": "Fee $400 \u00b7 Gifted $120",
+    "tag": "Total $520",
+    "tone": "paid"
+   },
+   {
+    "name": "Fitness brand",
+    "meta": "Fee $0 \u00b7 Gifted $85",
+    "tag": "Total $85",
+    "tone": "waiting"
+   },
+   {
+    "name": "Snack brand",
+    "meta": "Fee $250 \u00b7 Gifted $40",
+    "tag": "Total $290",
+    "tone": "paid"
+   }
+  ]
+ },
+ {
+  "id": "p17",
+  "badge": "Creator business system",
+  "headline": [
+   "Keep every",
+   "contract and",
+   "excluded category"
+  ],
+  "subline": "Attach the contract file to each brand deal in Notion.",
+  "card_title": "Deals",
+  "cta": "See the template",
+  "rows": [
+   {
+    "name": "Contract file",
+    "meta": "Attached to the deal",
+    "tag": "Attached",
+    "tone": "paid"
+   },
+   {
+    "name": "Excluded category",
+    "meta": "Brands you can't work with",
+    "tag": "Set",
+    "tone": "plain"
+   },
+   {
+    "name": "Exclusivity end",
+    "meta": "Date tracked per deal",
+    "tag": "Tracked",
+    "tone": "waiting"
+   },
+   {
+    "name": "Usage rights end",
+    "meta": "Alert before it expires",
+    "tag": "Ends in 14 days",
+    "tone": "waiting"
+   }
+  ]
+ },
+ {
+  "id": "p18",
+  "badge": "Creator email templates",
+  "headline": [
+   "How to counter",
+   "a low brand",
+   "offer"
+  ],
+  "subline": "Copy-and-paste pitch and reply emails for creators.",
+  "card_title": "Pro Toolkit emails",
+  "cta": "See the template",
+  "rows": [
+   {
+    "name": "Counter a low offer",
+    "meta": "Email template",
+    "tag": "Template",
+    "tone": "waiting"
+   },
+   {
+    "name": "Reply when a brand contacts you",
+    "meta": "Email template",
+    "tag": "Template",
+    "tone": "plain"
+   },
+   {
+    "name": "Pitch a repeat brand",
+    "meta": "Email template",
+    "tag": "Template",
+    "tone": "plain"
+   },
+   {
+    "name": "Send campaign results",
+    "meta": "Email template",
+    "tag": "Template",
+    "tone": "plain"
+   }
+  ],
+  "label_right": "Pro Toolkit"
+ },
+ {
+  "id": "p19",
+  "badge": "Notion for creators",
+  "headline": [
+   "Content calendar",
+   "linked to every",
+   "brand deal"
+  ],
+  "subline": "Plan content by platform and status, tied to the deal.",
+  "card_title": "Creator Money OS",
+  "cta": "See the template",
+  "rows": [
+   {
+    "name": "Content",
+    "meta": "Platform \u00b7 Status \u00b7 Linked deal",
+    "tag": "Database",
+    "tone": "paid"
+   },
+   {
+    "name": "Income",
+    "meta": "What you earn",
+    "tag": "Database",
+    "tone": "plain"
+   },
+   {
+    "name": "Expenses",
+    "meta": "What you spend",
+    "tag": "Database",
+    "tone": "plain"
+   }
+  ],
+  "label_right": "Core and Pro"
+ },
+ {
+  "id": "p20",
+  "badge": "Notion for creators",
+  "headline": [
+   "Total earned",
+   "per brand,",
+   "at a glance"
+  ],
+  "subline": "Keep each brand's contact, category and earnings together.",
+  "card_title": "Brands",
+  "cta": "See the template",
+  "rows": [
+   {
+    "name": "Skincare brand",
+    "meta": "Category: Beauty",
+    "tag": "Earned $1,200",
+    "tone": "paid"
+   },
+   {
+    "name": "Fitness brand",
+    "meta": "Category: Fitness",
+    "tag": "Earned $450",
+    "tone": "paid"
+   },
+   {
+    "name": "Snack brand",
+    "meta": "Category: Food",
+    "tag": "Earned $290",
+    "tone": "paid"
+   }
+  ]
+ }
+]

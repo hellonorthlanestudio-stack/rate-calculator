@@ -1,0 +1,207 @@
+[
+ {
+  "id": "A-calc-rate",
+  "theme": "rate calculator",
+  "link": "calculator"
+ },
+ {
+  "id": "A-net-terms",
+  "theme": "net 30 vs 60",
+  "link": "free"
+ },
+ {
+  "id": "A-late-emails-5",
+  "theme": "late payment emails",
+  "link": "paid"
+ },
+ {
+  "id": "A-gifted-value",
+  "theme": "gifted value",
+  "link": "free"
+ },
+ {
+  "id": "A-contract-excluded",
+  "theme": "contract and excluded category",
+  "link": "paid"
+ },
+ {
+  "id": "A-counter-low-offer",
+  "theme": "counter low offer",
+  "link": "paid"
+ },
+ {
+  "id": "A-content-calendar",
+  "theme": "content calendar",
+  "link": "paid"
+ },
+ {
+  "id": "A-brands-earned",
+  "theme": "earnings per brand",
+  "link": "paid"
+ },
+ {
+  "id": "A-exclusivity-end",
+  "theme": "exclusivity end dates",
+  "link": "free"
+ },
+ {
+  "id": "A-days-late",
+  "theme": "days late column",
+  "link": "free"
+ },
+ {
+  "id": "A-payment-status",
+  "theme": "overdue/waiting/paid status",
+  "link": "free"
+ },
+ {
+  "id": "A-due-date-default",
+  "theme": "30-day default due date",
+  "link": "free"
+ },
+ {
+  "id": "A-pipeline-stages",
+  "theme": "9 deal stages",
+  "link": "free"
+ },
+ {
+  "id": "A-declined-deals",
+  "theme": "track declined deals",
+  "link": "free"
+ },
+ {
+  "id": "A-notion-free-plan",
+  "theme": "works on Notion free plan",
+  "link": "free"
+ },
+ {
+  "id": "A-total-value",
+  "theme": "total value fee+gifted",
+  "link": "free"
+ },
+ {
+  "id": "A-ugc-tracker",
+  "theme": "UGC creator deal tracker",
+  "link": "free"
+ },
+ {
+  "id": "A-no-subscription",
+  "theme": "no subscription, duplicate link",
+  "link": "free"
+ },
+ {
+  "id": "A-usage-alert-14",
+  "theme": "usage rights alert 14 days",
+  "link": "free"
+ },
+ {
+  "id": "A-calc-ugc",
+  "theme": "UGC rate calculator add-ons",
+  "link": "calculator"
+ },
+ {
+  "id": "A-calc-rush",
+  "theme": "rush fee add-on",
+  "link": "calculator"
+ },
+ {
+  "id": "A-calc-reply-line",
+  "theme": "reply line for brands",
+  "link": "calculator"
+ },
+ {
+  "id": "A-calc-exclusivity",
+  "theme": "exclusivity add-on",
+  "link": "calculator"
+ },
+ {
+  "id": "A-first-pitch",
+  "theme": "first pitch email",
+  "link": "paid"
+ },
+ {
+  "id": "A-followup-pitch",
+  "theme": "follow-up pitch emails",
+  "link": "paid"
+ },
+ {
+  "id": "A-brand-contacts-you",
+  "theme": "reply when brand contacts you",
+  "link": "paid"
+ },
+ {
+  "id": "A-repeat-brand",
+  "theme": "pitch a repeat brand",
+  "link": "paid"
+ },
+ {
+  "id": "A-campaign-results",
+  "theme": "send campaign results email",
+  "link": "paid"
+ },
+ {
+  "id": "A-reminder-3days",
+  "theme": "reminder 3 days before due",
+  "link": "paid"
+ },
+ {
+  "id": "A-final-notice-45",
+  "theme": "final notice 45+ days late",
+  "link": "paid"
+ },
+ {
+  "id": "A-quarters-profit",
+  "theme": "quarters income expenses profit",
+  "link": "paid"
+ },
+ {
+  "id": "A-set-aside-pct",
+  "theme": "set-aside from your own percentage, not tax advice",
+  "link": "paid"
+ },
+ {
+  "id": "A-income-db",
+  "theme": "income database",
+  "link": "paid"
+ },
+ {
+  "id": "A-expenses-db",
+  "theme": "expenses database",
+  "link": "paid"
+ },
+ {
+  "id": "A-start-here",
+  "theme": "start-here guide",
+  "link": "paid"
+ },
+ {
+  "id": "A-refund-14",
+  "theme": "14-day refund, no subscription",
+  "link": "paid"
+ },
+ {
+  "id": "A-pro-toolkit",
+  "theme": "pro toolkit overview",
+  "link": "paid"
+ },
+ {
+  "id": "A-seven-databases",
+  "theme": "seven databases",
+  "link": "paid"
+ },
+ {
+  "id": "A-pro-calculator-cpm",
+  "theme": "pro calculator views x CPM or flat fee, rounds to $5",
+  "link": "paid"
+ },
+ {
+  "id": "A-brand-category",
+  "theme": "brand category and contact",
+  "link": "paid"
+ },
+ {
+  "id": "A-contract-file",
+  "theme": "contract file on each deal",
+  "link": "paid"
+ }
+]
