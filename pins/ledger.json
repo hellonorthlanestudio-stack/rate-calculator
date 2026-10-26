@@ -29,5 +29,6 @@
  ],
  "months_run": [
   "2026-10"
- ]
+ ],
+ "image_url_pattern": "https://raw.githubusercontent.com/hellonorthlanestudio-stack/rate-calculator/main/pins/pin-pN.png"
 }
